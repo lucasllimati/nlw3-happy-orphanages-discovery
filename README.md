@@ -1,7 +1,3 @@
-<h1 align="center">
-    <img alt="Happy" title="Happy" src="./public/images/logo.svg" />
-</h1>
-
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
