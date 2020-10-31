@@ -4,8 +4,8 @@
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-
 <br>
+
 <h1 align="center">
     <img alt="Happy" title="Happy" src="./public/images/logo.svg" />
 </h1>
@@ -45,7 +45,12 @@ Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para ace
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ## 👏 Agradecimento
+
 Agradeço a Rocketseat por esse primeiro passo na jornada como futuro desenvolvedor e espero os novos desafios.
+
+## 💼 Readme
+
+A apresentação "Readme.md" foi baseado no perfil [guilhermecapitao](https://github.com/guilhermecapitao)
 
 ---
 
